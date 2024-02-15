@@ -1,0 +1,13 @@
+
+.footer-container {
+    background-color: #ee5757;
+    padding: 50px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .p{
+    color: rgb(0, 0, 0);
+    font-size: large;
+  }

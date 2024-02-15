@@ -1,0 +1,44 @@
+body {
+    background-image: url("src\components\image 2.jpg");
+    
+  }
+  canvas{display:block}
+  h2 {
+    position: absolute;
+    /* top: 20%; */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #000000;
+    font-family: "Source Sans Pro";
+    font-size: 10em;
+    font-weight: 500;
+    -webkit-user-select: none;
+    user-select: none;
+    padding-top: 5em;
+  }
+  .body{
+    background-image: url(src\components\image3.jpg);
+  }
+  .pr{
+    padding-top: 30px;
+    font-size: 5em;
+    font-weight: 90;
+    color: #000000;
+  
+  }
+  h3{
+  
+      position: absolute;
+      padding-bottom: 5%;
+      font-weight: bold;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #000000;
+      font-family: "Source Sans Pro";
+      font-size: 10em;
+      text-align: center;
+      -webkit-user-select: none;
+      user-select: none;
+      padding-top: 5em;
+
+  }
